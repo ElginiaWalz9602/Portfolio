@@ -31,10 +31,10 @@ While at Epic Games I made a few Jira dashboards both that utilized JQL both for
 - Had a counter widget to give a visual number of how many bugs I verified as fixed
 
 QA Dashboard
-- Had three seperate widgets that tracked all open bugs that were actionable by QA.
+- Had three separate widgets that tracked all open bugs that were actionable by QA.
 - Each Widget was set to a different build release
 - Each widget had the ability to filter out bugs by the fix CL, build release, component, labels, priority, title, keyword, date, and reporter
-- Each widget also showed how long a bug had been sitting in the bucket and if it was mising a fix CL
+- Each widget also showed how long a bug had been sitting in the bucket and if it was missing a fix CL
 
 **Tech skills**
 - JQL
