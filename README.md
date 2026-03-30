@@ -2,7 +2,7 @@
 
 Hi, my name is Elginia. I worked as a QA Tester at Epic Games for 5 years. I am currently open for work. In my QA position I I worked on finding and logging bugs for Fornite with a specalized focus in the map and environment space. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through my time at Epic Games.
 
-[LinkedIn Profile]([https://www.linkedin.com/in/elginia-walz-a27620133/])
+[LinkedIn Profile](https://www.linkedin.com/in/elginia-walz-a27620133/)
 
 **My experience**
 
