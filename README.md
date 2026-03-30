@@ -22,7 +22,7 @@ I started at Epic Games as a QA Tester I.  I found and logged bugs in cosmetics,
 
 While at Epic Games I made a few Jira dashboards both that utilized JQL both for my self and for my team.  Due to NDA I am unable to share the physical dashboards
 
-Personal dashboard
+ Personal dashboard
 - Had a widget that tracked bugs I wrote with the ability to filter by title, description, key word, date, status, resolution, and priority
 - Had a pie chart Widget that was linked to the bug tracker to give a visual representaion of the bugs I wrote and could be adjusted by the same filters
 - Had a widget that tracked all the bugs I verified with the ability to filter by reporter, title, description, key word, date, status, resolution, and priority
@@ -30,7 +30,7 @@ Personal dashboard
 - Had a counter widget to give a visual number of how many bugs I wrote
 - Had a counter widget to give a visual number of how many bugs I verified as fixed
 
-**QA Dashboard**
+QA Dashboard
 - Had three seperate widgets that tracked all open bugs that were actionable by QA.
 - Each Widget was set to a different build release
 - Each widget had the ability to filter out bugs by the fix CL, build release, component, labels, priority, title, keyword, date, and reporter
